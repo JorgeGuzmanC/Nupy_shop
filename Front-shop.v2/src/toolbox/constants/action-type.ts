@@ -1,0 +1,3 @@
+export const ACTION_SET_LIST_USER            = 'ACTION_SET_LIST_USER';
+
+//ENCUESTAMULTIPLE

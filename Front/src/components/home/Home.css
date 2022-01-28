@@ -1,0 +1,18 @@
+.add{
+
+    margin-left:50px;
+}
+
+#icono2{
+    transform: scale(7);
+    display:block;
+    margin:auto;   
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+/* @media (max-width: 600px) {
+    .aaa {
+      width: 150px;
+    }
+} */

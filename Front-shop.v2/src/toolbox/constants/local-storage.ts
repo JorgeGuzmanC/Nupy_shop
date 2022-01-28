@@ -1,0 +1,10 @@
+export const KEY_LOCAL_STORAGE  = process.env.REACT_APP_KEY_COOKIE || '_';
+export const KEY_USER_DATA      = 'userData';
+export const KEY_EMPRESA        = 'userEmpresa'
+export const KEY_ARRAY_MY_MENU  = 'arrayMyMenu';
+export const KEY_OBJECT_MY_MENU = 'objectMyMenu';
+export const KEY_PARMS          = 'parms';
+export const KEY_TOKEN          =  'token';
+export const KEY_TOOGLE_MENU    = 'userToogleMenu';
+export const KEY_TIPO_ROL       = 'tipoRol';
+export const KEY_RUT            = 'RUT';

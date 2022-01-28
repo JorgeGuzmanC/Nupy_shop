@@ -1,0 +1,1 @@
+export {Reporte} from './Reporte '

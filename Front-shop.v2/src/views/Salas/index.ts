@@ -1,0 +1,1 @@
+export {Salas} from './Salas'

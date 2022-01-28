@@ -1,0 +1,1 @@
+export {AddSubCategoria} from './AddSubCategoria'
